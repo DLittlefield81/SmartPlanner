@@ -16,7 +16,7 @@ THEN the saved events persist
 # Smart Planner Scheduler
 
 ## Description
-WordWise Trivia Game will test your knowledge of Javascript. Answer multiple choice questions before the time runs out... but beware, if you get the answer wrong, you will lose time! 
+Life is fast paced, and you need to keep your day organized. Welcome to the Smart Planner Scheduler. It will show you your day in a neat colorized way to keep you on track.  
 
 ## Installation
 
@@ -25,15 +25,14 @@ Follow these steps to install this project on your local machine.
 - Open Bash editor
 - mkdir dennislittlefieldportfolio
 - cd dennislittlefieldportfolio
-- git clone https://github.com/DLittlefield81/WordWise.git
+- git clone https://github.com/DLittlefield81/SmartPlanner.git
 
 ## Application
 
-Link to Deployed Application: https://dlittlefield81.github.io/WordWise/
+Link to Deployed Application: https://dlittlefield81.github.io/SmartPlanner/
 
 
-![WordWise Trivia Game](assets/images/wordwise.png)
-![Wireframe](assets/images/wireframe.png)
+![Smart Planner Scheduler](assets/images/smart-planner.png)
 
 
 ## License
