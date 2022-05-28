@@ -6,7 +6,7 @@ setInterval(function () {
 
 
 //============- Get Current Hour -======================
-let currentHour = 13;  //moment().format('HH');
+let currentHour = moment().format('HH');
 console.log("Current Hour: " + currentHour)
 
 
